@@ -138,7 +138,6 @@
         height: auto;
         object-fit: contain;
         filter: grayscale(100%);
-        opacity: 0.7;
         transition: all 0.4s ease;
         position: relative;
         z-index: 1;
